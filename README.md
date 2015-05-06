@@ -1,2 +1,2 @@
 # hello-world
-First of many
+First of many. ReadMe for the first project. 
